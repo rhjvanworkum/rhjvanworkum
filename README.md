@@ -15,7 +15,7 @@ I build models and simulation tooling at the intersection of deep learning, quan
 ### Selected projects
 
 - **[CasNet](https://github.com/rhjvanworkum/CasNet)** — Message-passing neural networks that learn SA-CASSCF molecular orbitals to speed up multi-configurational quantum chemistry calculations ([paper](https://chemrxiv.org/engage/chemrxiv/article-details/649aa081ba3e99daef1cdd86))
-- **[reaction_path_sampler](https://github.com/rhjvanworkum/reaction_path_sampler)** — Tooling for sampling reaction pathways and transition states connecting reactants to products on a potential energy surface
+- **[ReactionPathSampler](https://github.com/rhjvanworkum/ReactionPathSampler)** — Tooling for sampling reaction pathways and transition states connecting reactants to products on a potential energy surface
 - **[SimpleMD](https://github.com/rhjvanworkum/SimpleMD)** — Molecular dynamics from scratch: LJ soft-sphere fluid + TIP-4P water
 - **[pyEsm](https://github.com/rhjvanworkum/pyEsm)** — A molecular quantum chemistry package in Python
 - **[PhotoSwitchProject](https://github.com/rhjvanworkum/PhotoSwitchProject)** — Machine learning applied to photoswitchable molecules to predict their photophysical properties
